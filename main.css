@@ -24,5 +24,8 @@ red { /* this selects any elements with the red id */
   border-top-color: #ff0
 }
 #green {
-  
+  border-top-color: #00bc3f
+}
+#blue {
+  border-top-color: 
 }
