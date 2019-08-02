@@ -14,4 +14,6 @@ red { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
 
-id.select the id, and mark its color as red
+.red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
